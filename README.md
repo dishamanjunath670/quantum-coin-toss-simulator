@@ -95,6 +95,16 @@ The main objective is to provide a simple and interactive way to understand fund
 * Export experimental results to CSV
 * Add additional statistical analysis
 
+* ## 📸 Screenshots
+
+### 🖥️ Quantum Coin Toss GUI
+
+![Quantum Coin Toss GUI](gui.png)
+
+### 📊 Quantum Coin Toss Results
+
+![Quantum Coin Toss Results](graph.png)
+
 👩‍💻 Author
 
 Disha M
